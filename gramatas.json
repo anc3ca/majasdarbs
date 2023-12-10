@@ -1,0 +1,5 @@
+[
+    {"nosaukums": "Dabas Stāsti", "autors": "John Smith", "žanrs": "daba", "izdošanas_gads": 2019},
+    {"nosaukums": "Programmēšanas Pamati", "autors": "Alice Johnson", "žanrs": "tehnoloģijas", "izdošanas_gads": 2020},
+    {"nosaukums": "Kriminālromāns", "autors": "John Smith", "žanrs": "kriminālromāns", "izdošanas_gads": 2018}
+  ]
